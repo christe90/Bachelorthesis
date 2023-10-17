@@ -1,0 +1,42 @@
+$# LS-PrePost command file created by LS-PrePost(R) V4.3 - 14Sep2016(09:00) -64bit-Window
+$# Created on Sep-26-2016 (22:25:21)
+open keyword "C:\Users\ich\OneDrive\03_Bachelorarbeit\Code\Ausgabe.dyn"
+Message 1
+save keywordoutversion 8
+Message 0
+genselect target part
+selectpart select 1
+rx 10
+rx 10
+ry 10
+ry 10
+selectpart on S1/0 
+selectpart on S2/0 
+selectpart on S3/0 
+selectpart on S4/0 
+selectpart on S5/0 
+selectpart on S6/0 
+selectpart on S7/0 
+selectpart on S8/0 
+selectpart on S9/0 
+selectpart on S10/0 
+selectpart on S11/0 
+selectpart on S12/0 
+selectpart on S13/0 
+selectpart on S14/0 
+selectpart on S15/0 
+selectpart on S16/0 
+selectpart on S17/0 
+selectpart on S18/0 
+selectpart on S19/0 
+selectpart on S20/0 
+selectpart on H21/0 
+selectpart on H22/0 
+selectpart on H22/0 H23/0 H24/0 H25/0 H26/0 H27/0 H28/0 H29/0 H30/0 H31/0 H32/0 H33/0 H34/0 H35/0 H36/0 H37/0 H38/0 
+selectpart on H21/0 H22/0 H23/0 H24/0 H25/0 H26/0 H27/0 H28/0 H29/0 H30/0 H31/0 H32/0 H33/0 H34/0 H35/0 H36/0 H37/0 H38/0 
+selectpart on H22/0 H23/0 H24/0 H25/0 H26/0 H27/0 H28/0 H29/0 H30/0 H31/0 H32/0 H33/0 H34/0 H35/0 H36/0 H37/0 H38/0 
+selectpart on H21/0 H22/0 H23/0 H24/0 H25/0 H26/0 H27/0 H28/0 H29/0 H30/0 H31/0 H32/0 H33/0 H34/0 H35/0 H36/0 H37/0 H38/0 
+selectpart on H22/0 H23/0 H24/0 H25/0 H26/0 H27/0 H28/0 H29/0 H30/0 H31/0 H32/0 H33/0 H34/0 H35/0 H36/0 H37/0 H38/0 
+selectpart on H21/0 H22/0 H23/0 H24/0 H25/0 H26/0 H27/0 H28/0 H29/0 H30/0 H31/0 H32/0 H33/0 H34/0 H35/0 H36/0 H37/0 H38/0 
+selectpart on H22/0 H23/0 H24/0 H25/0 H26/0 H27/0 H28/0 H29/0 H30/0 H31/0 H32/0 H33/0 H34/0 H35/0 H36/0 H37/0 H38/0 
+selectpart select 0
